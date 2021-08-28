@@ -1,0 +1,2 @@
+for red in (red), b in (green, blue)
+return encode(red + b, "PNG/png")

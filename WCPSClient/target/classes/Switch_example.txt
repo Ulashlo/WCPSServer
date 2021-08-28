@@ -1,0 +1,14 @@
+for c in (temp)
+let t := c[layer(10)] - 273.15
+return encode( (char)
+    switch
+            case t + 273.15 = -9.96921E36f
+                return {red: 255; green: 255; blue: 255}
+            case 8 > t
+                return {red: 0; green: 0; blue: 255}
+            case 15 > t
+                return {red: 255; green: 255; blue: 0}
+            case 25 > t
+                return {red: 255; green: 140; blue: 0}
+            default return {red: 255; green: 0; blue: 0}
+        , "PNG/png")

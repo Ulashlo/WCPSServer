@@ -1,0 +1,2 @@
+for one in (one)
+return sum( one * 5 )

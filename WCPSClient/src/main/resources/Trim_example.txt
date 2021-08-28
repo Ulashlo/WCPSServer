@@ -1,0 +1,2 @@
+for red in (red), green in (green), blue in (blue)
+return encode(red[x(0:199), y(0: 199)] + green[x(-100:99), y(0: 199)] + blue[x(0: 199), y(-100: 99)], "PNG/png")

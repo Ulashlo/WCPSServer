@@ -1,0 +1,3 @@
+for r in (red, green, blue)
+where avg(r[layer(0)]) = 255
+return encode(r, "PNG/png")

@@ -1,0 +1,5 @@
+for red in (red), green in (green), blue in (blue)
+let r := red[x(0:199), y(0: 199)],
+    g := green[x(-100:99), y(0: 199)],
+    b := blue[x(0: 199), y(-100: 99)]
+return encode(r + g + b, "PNG/png")

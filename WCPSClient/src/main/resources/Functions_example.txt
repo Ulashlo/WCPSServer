@@ -1,0 +1,2 @@
+for one in (one)
+return abs(-3.15) + sin(1)

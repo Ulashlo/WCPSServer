@@ -1,0 +1,2 @@
+for one in (one)
+return round(3 + 0.5) + floor(4.7) - ceil(7.2)

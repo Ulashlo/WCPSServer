@@ -1,0 +1,19 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WCPSClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WCPSClient_jar</output-path>
+    <root id="archive" name="WCPSClient.jar">
+      <element id="module-output" name="WCPSClient" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../../Program Files/JetBrains/javafx-sdk-11.0.2/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../../Program Files/JetBrains/javafx-sdk-11.0.2/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../../Program Files/JetBrains/javafx-sdk-11.0.2/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../../Program Files/JetBrains/javafx-sdk-11.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../../Program Files/JetBrains/javafx-sdk-11.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../../Program Files/JetBrains/javafx-sdk-11.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../../Program Files/JetBrains/javafx-sdk-11.0.2/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../../Program Files/JetBrains/javafx-sdk-11.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../../../Program Files/JetBrains/javafx-sdk-11.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.54.Final/netty-all-4.1.54.Final.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
